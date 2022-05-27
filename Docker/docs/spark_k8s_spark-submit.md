@@ -1,6 +1,5 @@
 # Spark on Kubernetes: spark-submit
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
 
 ## Contents
 
