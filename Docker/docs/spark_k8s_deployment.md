@@ -1,6 +1,5 @@
 # Spark Standalone Cluster on Kubernetes using Deployments
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
 
 ## Contents
 
