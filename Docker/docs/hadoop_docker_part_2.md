@@ -1,6 +1,5 @@
 # Hadoop on Docker. Part 2: Building Base Hadoop Image
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
 
 ## Contents
 
