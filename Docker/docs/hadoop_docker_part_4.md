@@ -1,6 +1,6 @@
 # Hadoop on Docker. Part 4: Deploying using Docker Compose and Running MapReduce Application
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
+
 
 ## Contents
 
