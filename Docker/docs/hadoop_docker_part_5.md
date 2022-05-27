@@ -1,6 +1,5 @@
 # Hadoop on Docker. Part 5: Deploying on multiple hosts using Docker Swarm Mode
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
 
 ## Contents
 
