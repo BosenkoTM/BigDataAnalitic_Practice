@@ -1,6 +1,6 @@
 # Hadoop on Docker. Part 1: Introduction
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
+
 
 ## Activities
 
