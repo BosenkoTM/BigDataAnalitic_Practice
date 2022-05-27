@@ -1,6 +1,5 @@
 # Hadoop on Docker. Part 3: Building Hadoop Master and Worker Images
 
-Sergei Yu. Papulin (papulin.study@yandex.ru)
 
 ## Contents
 
