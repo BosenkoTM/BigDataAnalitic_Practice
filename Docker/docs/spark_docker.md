@@ -1,6 +1,5 @@
 # Deploying Spark on YARN cluster using Docker
 
-Sergei Yu. Papulin (papulin_bmstu@mail.ru)
 
 ## Contents
 
