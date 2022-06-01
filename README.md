@@ -13,7 +13,6 @@
 - [Hive](exercises/winter_semester_2021-2022/02_hive)
 - [Hive-QL](exercises/winter_semester_2021-2022/03_hive-ql_partitioning_hive-server)
 - [Spark_PySpark](exercises/winter_semester_2021-2022/04_spark_pyspark_jupyter)
-- [airflow](exercises/winter_semester_2021-2022/05_airflow)
 
 ## Решения
 - [Hadoop](solutions/winter_semester_2021-2022/01_hadoop/Exercise_1.pdf)
